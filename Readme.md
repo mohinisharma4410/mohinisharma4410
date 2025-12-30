@@ -78,18 +78,6 @@ AWS • GCP • Azure • Docker • Firebase • Git
 
 ### 🔌 IoT & Systems
 Raspberry Pi • Sensors • Edge Deployment  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohinisharma4410&show_icons=true&theme=dark&cache_seconds=86400" />
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=mohinisharma4410&theme=dark&hide_border=false" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohinisharma4410&layout=compact&theme=dark&cache_seconds=86400" />
-</p>
-
 ---
 
 <p align="center">

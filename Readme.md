@@ -1,18 +1,97 @@
-# 💫 About Me:
-👋 Hi, I’m Mohini Sharma<br><br>🔭 I’m currently working on<br>Enhancing Anuvaad, an AI-powered Indian language translation & media app—focusing on multilingual translation, content-to-video pipelines, and real-world ML integration.<br>🔗 Try Anuvaad: https://play.google.com/store/apps/details?id=com.mohinisharma.t_to_v<br><br>🤝 I’m looking to collaborate on<br>Open-source Machine Learning projects, Computer Vision, Generative AI, NLP, IoT-based systems, and socially impactful AI products.<br><br>🤝 I’m looking for help with<br>Edge AI deployment, model optimization, scalable ML pipelines, MLOps workflows, and dataset benchmarking.<br><br>🌱 I’m currently learning<br>Advanced Computer Vision, Agentic AI (LangGraph), Edge AI optimization, and production-ready ML systems.<br><br>💬 Ask me about<br>Python, Machine Learning, YOLO, SAM, NLP, Flutter, Power BI, IoT sensors, AI product development, and end-to-end ML pipelines.<br><br>⚡ Fun fact<br>I love building AI products that people actually use—and I write poetry when my models finally converge ✨
+<h1 align="center">Hi 👋, I'm Mohini Sharma</h1>
+<h3 align="center">ML & AI Engineer | Computer Vision • NLP • Edge AI</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohini-sharma-21b060230/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohinisharma1225@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohinisharma4410&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohinisharma4410&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohinisharma4410&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Building real-world AI products with impact 🇮🇳  
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mohinisharma4410&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Currently Working On
+### **Anuvaad** — AI-powered Indian Language Translation & Media App  
+- 🌐 Multilingual translation (Indic languages)  
+- 🎥 Text → Audio → Video pipelines  
+- ⚙️ Real-world ML integration & deployment  
+
+👉 **Try Anuvaad:**  
+📱 https://play.google.com/store/apps/details?id=com.mohinisharma.t_to_v  
+
+---
+
+## 🤝 Open to Collaborate On
+- Open-source **Machine Learning** projects  
+- **Computer Vision** (YOLO, SAM, defect detection)  
+- **Generative AI & NLP**  
+- **IoT + Edge AI** systems  
+- Social-impact AI products  
+
+---
+
+## 🧠 Looking for Help With
+- Edge AI & on-device ML optimization  
+- Scalable ML pipelines & **MLOps**  
+- Dataset benchmarking & evaluation  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Computer Vision  
+- Agentic AI (LangGraph)  
+- Edge AI optimization  
+- Production-grade ML systems  
+
+---
+
+## 💬 Ask Me About
+**Python • Machine Learning • YOLO • SAM • NLP**  
+Flutter • Power BI • IoT Sensors • AI Product Development  
+
+⚡ *Fun fact:* I write poetry when my models finally converge ✨  
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/mohini-sharma-21b060230/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mohinisharma1225@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🛠 Core Tech Stack
+
+### 👩‍💻 Languages & Frameworks
+Python • JavaScript • Dart • Flutter • React  
+
+### 🤖 ML / AI
+YOLO • SAM • TensorFlow • PyTorch • Scikit-learn • MLflow  
+
+### 📊 Data & Visualization
+Pandas • NumPy • Matplotlib • Plotly • Power BI  
+
+### ☁️ Cloud & DevOps
+AWS • GCP • Azure • Docker • Firebase • Git  
+
+### 🔌 IoT & Systems
+Raspberry Pi • Sensors • Edge Deployment  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mohinisharma4410&show_icons=true&theme=dark&cache_seconds=86400" />
+<br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=mohinisharma4410&theme=dark&hide_border=false" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohinisharma4410&layout=compact&theme=dark&cache_seconds=86400" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=mohinisharma4410&icon=0&color=0"/>
+</p>

@@ -2,8 +2,7 @@
 <h3 align="center">ML & AI Engineer | Computer Vision • NLP • Edge AI</h3>
 
 <p align="center">
-💡 Building real-world AI products with impact 🇮🇳  
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="180"/>
+💡 Building real-world AI products with impact 🇮🇳
 </p>
 
 ---
@@ -100,24 +99,3 @@ Flutter • Power BI • IoT Sensors • AI Product Development
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohinisharma4410&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohinisharma4410&theme=dark" />
-</p>
-
----
-
-## 👀 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohinisharma4410&layout=compact&theme=dark" />
-</p>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=mohinisharma4410&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

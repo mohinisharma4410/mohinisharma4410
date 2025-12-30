@@ -75,11 +75,3 @@ Pandas • NumPy • Matplotlib • Plotly • Power BI
 
 ### ☁️ Cloud & DevOps
 AWS • GCP • Azure • Docker • Firebase • Git  
-
-### 🔌 IoT & Systems
-Raspberry Pi • Sensors • Edge Deployment  
----
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=mohinisharma4410&icon=0&color=0"/>
-</p>

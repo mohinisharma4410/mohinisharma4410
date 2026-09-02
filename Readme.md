@@ -23,7 +23,6 @@
 ```yaml
 name        : Mohini Sharma
 role        : Software Developer — AI Research & Development
-company     : Ascentt Business Systems Inc.
 experience  : 1.5 years
 domains     :
               - Computer Vision
@@ -39,30 +38,31 @@ open_to     : Collaborations · Interesting AI problems · Open source
 
 ## About
 
-Software Developer with 1.5 years of experience building intelligent software solutions across computer vision, generative AI, agentic systems, and RAG pipelines for automotive and manufacturing domains.
+Software Developer with 1.5 years of experience building intelligent software solutions across computer vision, generative AI, agentic systems, and RAG pipelines.
 
-I actively follow current industrial trends and challenges — a few ideas I conceptualized were built and delivered as POCs and MVPs within my organization, including two recognized at the **AWS re:Invent global showcase**.
-
-I also build independently — **Anuvaad**, my AI-driven multilingual translator, is live on the Play Store with 100+ downloads.
+I actively follow current industrial trends — I conceptualize ideas, dig into real world problems, and translate them into working solutions. I also build independently — **Anuvaad**, my AI-driven multilingual translator, is live on the Play Store with 100+ downloads.
 
 ---
 
 ## What I Am Working On
 
-- [x] ~~Agentic AI workflows with LangGraph~~ — delivered multiple POCs and MVPs
-- [x] ~~3D Reconstruction pipelines~~ — shipped Aura Nova, AWS re:Invent showcase
-- [x] ~~LLM-driven CAD automation~~ — shipped ASC-Cadence, AWS re:Invent showcase
-- [x] ~~RAG-based enterprise AI systems~~ — shipped with local LLM and RBAC enforcement
+- [x] ~~Agentic AI workflows with LangGraph~~
+- [x] ~~3D Reconstruction pipelines~~
+- [x] ~~LLM-driven engineering automation~~
+- [x] ~~RAG-based conversational AI systems~~
 - [ ] MongoDB Certification — in progress
 - [ ] Advanced RAG architectures — active
 - [ ] Edge AI optimization — next focus
 
 ---
 
-## Projects
+## Personal Projects
 
 | Project | What it does | Recognition |
+|---------|-------------|-------------|
 | **Anuvaad** | AI-powered multilingual translator across 13 Indian languages | 100+ Play Store downloads |
+| **Kisaan Vaani** | IoT and ML crop prediction platform for farmers | Icreate Research Grant 2024 |
+| **Dark Pattern Buster** | ML Chrome extension detecting dark patterns on e-commerce sites | Top 10 IIT-BHU Hackathon 2023 |
 
 ---
 
@@ -104,7 +104,7 @@ I also build independently — **Anuvaad**, my AI-driven multilingual translator
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohinisharma4410&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Grid](https://ghchart.rshah.org/58A6FF/mohinisharma4410)
 
 </div>
 
@@ -114,16 +114,17 @@ I also build independently — **Anuvaad**, my AI-driven multilingual translator
 
 - Top 10 — Dark Pattern Buster Hackathon 2023, IIT-BHU
 - Top 14 — IIT Drishti SHAKTI 2.0, IIT Indore
-- Icreate Research Grant (April 2024) — Kisaan Vaani AI Crop Prediction Platform
+- Icreate Research Grant (April 2024) — Kisaan Vaani
+- 100+ Play Store downloads — Anuvaad
 
 ---
 
 ## Beyond Code
 
-- Pitched ideas that became real products — ASC-Cadence and Overbody Detection recognized at AWS re:Invent
-- Built and shipped a Play Store app — Anuvaad — independently
-- Currently chasing MongoDB certification and edge AI
+- I build things I wish existed — Anuvaad started as a personal need
 - I write poetry when my models finally converge
+- Currently chasing MongoDB certification and edge AI
+- Always looking for the next interesting problem to solve
 
 ---
 

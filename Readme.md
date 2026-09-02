@@ -1,5 +1,7 @@
 <div align="center">
 
+# Mohini Sharma
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+AI+R%26D;Computer+Vision+%7C+Agentic+AI+%7C+RAG;Building+intelligent+systems+that+matter)](https://git.io/typing-svg)
 
 </div>
@@ -86,6 +88,7 @@ I also build independently — **Anuvaad**, my AI-driven multilingual translator
 
 ## Achievements
 
+- AWS re:Invent Global Showcase — Overbody Damage Detection & Aura Nova
 - Top 10 — Dark Pattern Buster Hackathon 2023, IIT-BHU
 - Top 14 — IIT Drishti SHAKTI 2.0, IIT Indore
 - Icreate Research Grant (April 2024) — Kisaan Vaani AI Crop Prediction Platform

@@ -2,7 +2,19 @@
 
 # Mohini Sharma
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+AI+R%26D;Computer+Vision+%7C+Agentic+AI+%7C+RAG;Building+intelligent+systems+that+matter)](https://git.io/typing-svg)
+### Software Developer — AI R&D
+
+</div>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:B794F4&height=150&section=header)
+
+<div align="center">
+
+<img src="https://api.dicebear.com/7.x/lorelei/svg?seed=Mohini&backgroundColor=b6e3f4&radius=50" width="130"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+AI+R%26D;Computer+Vision+%7C+Agentic+AI+%7C+RAG;Building+intelligent+systems+that+matter)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohinisharma4410&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -50,9 +62,6 @@ I also build independently — **Anuvaad**, my AI-driven multilingual translator
 ## Projects
 
 | Project | What it does | Recognition |
-|---------|-------------|-------------|
-| **Overbody Damage Detection** | Automated vehicle damage assessment using CV and depth estimation | AWS re:Invent Showcase |
-| **ASC-Cadence** | LLM-driven CAD modification and FEA validation pipeline | AWS re:Invent Showcase |
 | **Anuvaad** | AI-powered multilingual translator across 13 Indian languages | 100+ Play Store downloads |
 
 ---
@@ -76,11 +85,26 @@ I also build independently — **Anuvaad**, my AI-driven multilingual translator
 
 <div align="center">
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=mohinisharma4410&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)
+
+</div>
+
+<div align="center">
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=mohinisharma4410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohinisharma4410&theme=tokyonight&hide_border=true)
-
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohinisharma4410&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohinisharma4410&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=B794F4&fire=FF6B6B&currStreakLabel=58A6FF)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohinisharma4410&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -88,10 +112,18 @@ I also build independently — **Anuvaad**, my AI-driven multilingual translator
 
 ## Achievements
 
-- AWS re:Invent Global Showcase — Overbody Damage Detection & Aura Nova
 - Top 10 — Dark Pattern Buster Hackathon 2023, IIT-BHU
 - Top 14 — IIT Drishti SHAKTI 2.0, IIT Indore
 - Icreate Research Grant (April 2024) — Kisaan Vaani AI Crop Prediction Platform
+
+---
+
+## Beyond Code
+
+- Pitched ideas that became real products — ASC-Cadence and Overbody Detection recognized at AWS re:Invent
+- Built and shipped a Play Store app — Anuvaad — independently
+- Currently chasing MongoDB certification and edge AI
+- I write poetry when my models finally converge
 
 ---
 
@@ -111,3 +143,5 @@ I also build independently — **Anuvaad**, my AI-driven multilingual translator
 <div align="center">
 <i>Build smart. Ship clean. Stay curious.</i>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:B794F4,100:58A6FF&height=100&section=footer)

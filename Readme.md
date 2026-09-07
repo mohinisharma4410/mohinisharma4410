@@ -5,12 +5,7 @@
 ### Software Developer — AI R&D
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:B794F4&height=150&section=header" width="100%"/>
-
 <div align="center">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+AI+R%26D;Computer+Vision+%7C+Agentic+AI+%7C+RAG;Building+intelligent+systems+that+matter)](https://git.io/typing-svg)
 
@@ -79,24 +74,6 @@ I actively follow current industrial trends — I conceptualize ideas, dig into 
 | Backend & Cloud | FastAPI, Flask, Docker, AWS SageMaker, Azure |
 | Languages | Python, C++, JavaScript, Dart |
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mohinisharma4410&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)
-
-</div>
-
-<div align="center">
-
-![Grid](https://ghchart.rshah.org/58A6FF/mohinisharma4410)
-
-</div>
-
----
-
 ## Achievements
 
 - Top 10 — Dark Pattern Buster Hackathon 2023, IIT-BHU
@@ -131,5 +108,3 @@ I actively follow current industrial trends — I conceptualize ideas, dig into 
 <div align="center">
 <i>Build smart. Ship clean. Stay curious.</i>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B794F4,100:58A6FF&height=100&section=footer" width="100%"/>
